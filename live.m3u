@@ -2,691 +2,766 @@
 #EXTINF:-1,------UK------
 #EXTINF:-1,UK: Sky News HD
 http://185.2.83.209:8000/live/123456/123456/550.ts
-
 #EXTINF:-1,UK: Sky RTE News
 http://185.2.83.209:8000/live/123456/123456/431.ts
-
 #EXTINF:-1,UK: Sky BBC News
 http://185.2.83.209:8000/live/123456/123456/428.ts
-
 #EXTINF:-1,UK: Sky Sports News
 http://185.2.83.209:8000/live/123456/123456/549.ts
-
 #EXTINF:-1,UK: Sky Sport 1 SD
 http://185.2.83.209:8000/live/123456/123456/533.ts
-
 #EXTINF:-1,UK: Sky Sport 2 SD
 http://185.2.83.209:8000/live/123456/123456/532.ts
-
 #EXTINF:-1,UK: Sky Sport 3 SD
 http://185.2.83.209:8000/live/123456/123456/531.ts
-
 #EXTINF:-1,UK: Sky Sport 4 SD
 http://185.2.83.209:8000/live/123456/123456/530.ts
-
 #EXTINF:-1,UK: Sky Sport 5 SD
 http://185.2.83.209:8000/live/123456/123456/529.ts
-
 #EXTINF:-1,UK: Sky Sports 1 HD
 http://185.2.83.209:8000/live/123456/123456/548.ts
-
 #EXTINF:-1,UK: Sky Sports 2 HD
 http://185.2.83.209:8000/live/123456/123456/547.ts
-
 #EXTINF:-1,UK: Sky Sports 3 HD
 http://185.2.83.209:8000/live/123456/123456/546.ts
-
 #EXTINF:-1,UK: Sky Sports 4 HD
 http://185.2.83.209:8000/live/123456/123456/545.ts
-
 #EXTINF:-1,UK: Sky Sports 5 HD
 http://185.2.83.209:8000/live/123456/123456/544.ts
-
 #EXTINF:-1,UK: Sky Sport Arena
 http://185.2.83.209:8000/live/123456/123456/1558.ts
-
 #EXTINF:-1,UK: Sky Sport Football
 http://185.2.83.209:8000/live/123456/123456/1559.ts
-
 #EXTINF:-1,UK: Sky Sports Action
 http://185.2.83.209:8000/live/123456/123456/1560.ts
-
 #EXTINF:-1,UK: Sky motorsport.tv
 http://185.2.83.209:8000/live/123456/123456/1555.ts
-
 #EXTINF:-1,UK: Sky Sports F1
 http://185.2.83.209:8000/live/123456/123456/539.ts
-
 #EXTINF:-1,UK: Sky Sport AU 1
 http://185.2.83.209:8000/live/123456/123456/438.ts
-
 #EXTINF:-1,UK: Sky BT Sport 1
 http://185.2.83.209:8000/live/123456/123456/543.ts
-
 #EXTINF:-1,UK: Sky BT Sport 2
 http://185.2.83.209:8000/live/123456/123456/542.ts
-
 #EXTINF:-1,UK: Sky BT Sport 1 HD
 http://185.2.83.209:8000/live/123456/123456/528.ts
-
 #EXTINF:-1,UK: Sky BT Sport 2 HD
 http://185.2.83.209:8000/live/123456/123456/527.ts
-
 #EXTINF:-1,UK: Sky BT Sport 3 HD
 http://185.2.83.209:8000/live/123456/123456/453.ts
-
 #EXTINF:-1,UK: Sky BT Sport Extra
 http://185.2.83.209:8000/live/123456/123456/479.ts
-
 #EXTINF:-1,UK: Sky Eurosport 1 HD
 http://185.2.83.209:8000/live/123456/123456/541.ts
-
 #EXTINF:-1,UK: Sky Eurosport 2 HD
 http://185.2.83.209:8000/live/123456/123456/540.ts
-
 #EXTINF:-1,UK: Sky Eir Sport 1
 http://185.2.83.209:8000/live/123456/123456/1566.ts
-
 #EXTINF:-1,UK: Sky Eir Sport 2
 http://185.2.83.209:8000/live/123456/123456/1567.ts
-
 #EXTINF:-1,UK: Sky Sports Cricket
 http://185.2.83.209:8000/live/123456/123456/1564.ts
-
 #EXTINF:-1,UK: Sky Sports Golf HD
 http://185.2.83.209:8000/live/123456/123456/1563.ts
-
 #EXTINF:-1,UK: Sky Sports Main Event
 http://185.2.83.209:8000/live/123456/123456/1561.ts
-
 #EXTINF:-1,UK: Sky Sports Premier
 http://185.2.83.209:8000/live/123456/123456/1565.ts
-
 #EXTINF:-1,UK: Sky Sports Premier League
 http://185.2.83.209:8000/live/123456/123456/1562.ts
-
 #EXTINF:-1,UK: Sky Sports MixHD
 http://185.2.83.209:8000/live/123456/123456/513.ts
-
 #EXTINF:-1,UK: Sky Setanta Sports
 http://185.2.83.209:8000/live/123456/123456/484.ts
-
 #EXTINF:-1,UK: Sky Liverpool FC TV HD
 http://185.2.83.209:8000/live/123456/123456/536.ts
-
 #EXTINF:-1,UK: Sky Chelsea TV HD
 http://185.2.83.209:8000/live/123456/123456/537.ts
-
 #EXTINF:-1,UK: Sky MUTV
 http://185.2.83.209:8000/live/123456/123456/535.ts
-
+#EXTINF:-1,Uk: Sky At the Races
+http://185.2.83.209:8000/live/123456/123456/461.ts
 #EXTINF:-1,UK: Sky Cinema Box Office 1 HD
 http://185.2.83.209:8000/live/123456/123456/421.ts
-
 #EXTINF:-1,UK: Sky Cinema Box Office 2 HD
 http://185.2.83.209:8000/live/123456/123456/420.ts
-
 #EXTINF:-1,UK: Sky Cinema Box Office 3 HD
 http://185.2.83.209:8000/live/123456/123456/419.ts
-
 #EXTINF:-1,UK: Sky Cinema Box Office 4 HD
 http://185.2.83.209:8000/live/123456/123456/1542.ts
-
 #EXTINF:-1,UK: Sky Movies Premiere HD
 http://185.2.83.209:8000/live/123456/123456/519.ts
-
 #EXTINF:-1,UK: Sky Movies Disney
 http://185.2.83.209:8000/live/123456/123456/516.ts
-
 #EXTINF:-1,UK: Sky Movies Select HD
 http://185.2.83.209:8000/live/123456/123456/517.ts
-
 #EXTINF:-1,UK: Sky Movies Action HD
 http://185.2.83.209:8000/live/123456/123456/511.ts
-
 #EXTINF:-1,UK: Sky Movies Greats
 http://185.2.83.209:8000/live/123456/123456/518.ts
-
 #EXTINF:-1,UK: Sky Movies Family HD
 http://185.2.83.209:8000/live/123456/123456/520.ts
-
 #EXTINF:-1,UK: Sky Movies Drama HD
 http://185.2.83.209:8000/live/123456/123456/521.ts
-
 #EXTINF:-1,UK: Sky Movies Comedy HD
 http://185.2.83.209:8000/live/123456/123456/524.ts
-
-#EXTINF:-1,UK: Sky Home &amp; Health
+#EXTINF:-1,UK: Sky Home & Health
 http://185.2.83.209:8000/live/123456/123456/1547.ts
-
 #EXTINF:-1,UK: Sky Movies Crime
 http://185.2.83.209:8000/live/123456/123456/512.ts
-
 #EXTINF:-1,UK: Sky Movies Sci-Fi+
 http://185.2.83.209:8000/live/123456/123456/515.ts
-
 #EXTINF:-1,UK: Sky Watch
 http://185.2.83.209:8000/live/123456/123456/523.ts
-
 #EXTINF:-1,UK: Sky True Movies 1
 http://185.2.83.209:8000/live/123456/123456/472.ts
-
 #EXTINF:-1,UK: Sky True Movies 2
 http://185.2.83.209:8000/live/123456/123456/534.ts
-
 #EXTINF:-1,UK: Sky True Entertaimnt
 http://185.2.83.209:8000/live/123456/123456/1546.ts
-
 #EXTINF:-1,UK: Sky More 4 HD
 http://185.2.83.209:8000/live/123456/123456/504.ts
-
 #EXTINF:-1,UK: Sky Movies4Men
 http://185.2.83.209:8000/live/123456/123456/1557.ts
-
-#EXTINF:-1,UK: Sky Horse &amp; Country
+#EXTINF:-1,UK: Sky Horse & Country
 http://185.2.83.209:8000/live/123456/123456/1549.ts
-
 #EXTINF:-1,UK: Sky Home
 http://185.2.83.209:8000/live/123456/123456/1553.ts
-
 #EXTINF:-1,UK: Sky Quest
 http://185.2.83.209:8000/live/123456/123456/1551.ts
-
 #EXTINF:-1,UK: Sky Really
 http://185.2.83.209:8000/live/123456/123456/1552.ts
-
 #EXTINF:-1,UK: Sky Travel Channel
 http://185.2.83.209:8000/live/123456/123456/1556.ts
-
 #EXTINF:-1,UK: Sky Horror Channel
 http://185.2.83.209:8000/live/123456/123456/1548.ts
-
 #EXTINF:-1,UK: Sky S4C
 http://185.2.83.209:8000/live/123456/123456/435.ts
-
 #EXTINF:-1,UK: Sky 5 Star +1
 http://185.2.83.209:8000/live/123456/123456/505.ts
-
 #EXTINF:-1,UK: Sky CBBC HD
 http://185.2.83.209:8000/live/123456/123456/430.ts
-
 #EXTINF:-1,UK: Sky ITV 1
 http://185.2.83.209:8000/live/123456/123456/471.ts
-
 #EXTINF:-1,UK: Sky ITV 2
 http://185.2.83.209:8000/live/123456/123456/470.ts
-
 #EXTINF:-1,UK: Sky ITV 3
 http://185.2.83.209:8000/live/123456/123456/469.ts
-
 #EXTINF:-1,UK: Sky ITV 4
 http://185.2.83.209:8000/live/123456/123456/468.ts
-
 #EXTINF:-1,UK: Sky ITV Be
 http://185.2.83.209:8000/live/123456/123456/429.ts
-
 #EXTINF:-1,UK: Sky ITV Encore
 http://185.2.83.209:8000/live/123456/123456/467.ts
-
 #EXTINF:-1,UK: Sky BBC4/CBEEBIES
 http://185.2.83.209:8000/live/123456/123456/433.ts
-
 #EXTINF:-1,UK: Sky 3e
 http://185.2.83.209:8000/live/123456/123456/432.ts
-
 #EXTINF:-1,UK: Sky TV3
 http://185.2.83.209:8000/live/123456/123456/434.ts
-
 #EXTINF:-1,UK: Sky CITV
 http://185.2.83.209:8000/live/123456/123456/436.ts
-
 #EXTINF:-1,UK: Sky Cbs Drama
 http://185.2.83.209:8000/live/123456/123456/482.ts
-
 #EXTINF:-1,UK: Sky Pick
 http://185.2.83.209:8000/live/123456/123456/437.ts
-
 #EXTINF:-1,UK: Sky Cbs Action
 http://185.2.83.209:8000/live/123456/123456/481.ts
-
 #EXTINF:-1,UK: Sky CBS Reality
 http://185.2.83.209:8000/live/123456/123456/510.ts
-
 #EXTINF:-1,UK: Sky BBC One HD
 http://185.2.83.209:8000/live/123456/123456/488.ts
-
 #EXTINF:-1,UK: Sky BBC Two HD
 http://185.2.83.209:8000/live/123456/123456/487.ts
-
 #EXTINF:-1,UK: Sky BBC Three HD
 http://185.2.83.209:8000/live/123456/123456/486.ts
-
 #EXTINF:-1,UK: Sky BBC Four HD
 http://185.2.83.209:8000/live/123456/123456/485.ts
-
 #EXTINF:-1,UK: Sky Channel 4 HD
 http://185.2.83.209:8000/live/123456/123456/426.ts
-
 #EXTINF:-1,UK: Sky Channel 5 HD
 http://185.2.83.209:8000/live/123456/123456/427.ts
-
 #EXTINF:-1,UK: Sky Comedy Central
 http://185.2.83.209:8000/live/123456/123456/463.ts
-
 #EXTINF:-1,UK: Sky Comedy Central Ex
 http://185.2.83.209:8000/live/123456/123456/462.ts
-
 #EXTINF:-1,UK: Sky Food Network
 http://185.2.83.209:8000/live/123456/123456/495.ts
-
 #EXTINF:-1,UK: Sky Sony Movies
 http://185.2.83.209:8000/live/123456/123456/501.ts
-
 #EXTINF:-1,UK: Sky Bloomberg HD
 http://185.2.83.209:8000/live/123456/123456/457.ts
-
 #EXTINF:-1,UK: Sky Boomerang
 http://185.2.83.209:8000/live/123456/123456/444.ts
-
 #EXTINF:-1,UK: Sky Cartoon Network
 http://185.2.83.209:8000/live/123456/123456/522.ts
-
 #EXTINF:-1,UK: Sky Nickelodeon
 http://185.2.83.209:8000/live/123456/123456/503.ts
-
 #EXTINF:-1,UK: Sky Nickelodeon JR
 http://185.2.83.209:8000/live/123456/123456/423.ts
-
 #EXTINF:-1,UK: Sky NickToons
 http://185.2.83.209:8000/live/123456/123456/446.ts
-
 #EXTINF:-1,UK: Sky Disney XD HD
 http://185.2.83.209:8000/live/123456/123456/493.ts
-
 #EXTINF:-1,UK: Sky Disney Junior HD
 http://185.2.83.209:8000/live/123456/123456/494.ts
-
 #EXTINF:-1,UK: Sky Disney Chaneel HD
 http://185.2.83.209:8000/live/123456/123456/492.ts
-
 #EXTINF:-1,UK: Sky Discovery Science
 http://185.2.83.209:8000/live/123456/123456/526.ts
-
 #EXTINF:-1,UK: Sky Discovery History
 http://185.2.83.209:8000/live/123456/123456/491.ts
-
 #EXTINF:-1,UK: Sky Discovery Turbo
 http://185.2.83.209:8000/live/123456/123456/465.ts
-
 #EXTINF:-1,UK: Sky Discovery Shed
 http://185.2.83.209:8000/live/123456/123456/445.ts
-
 #EXTINF:-1,UK: Sky Discovery
 http://185.2.83.209:8000/live/123456/123456/464.ts
-
 #EXTINF:-1,UK: Sky National Geographic HD
 http://185.2.83.209:8000/live/123456/123456/499.ts
-
 #EXTINF:-1,UK: Sky Nat Geo Wild HD
 http://185.2.83.209:8000/live/123456/123456/498.ts
-
 #EXTINF:-1,UK: Sky Animal Planet HD
 http://185.2.83.209:8000/live/123456/123456/497.ts
-
 #EXTINF:-1,UK: Sky History HD
 http://185.2.83.209:8000/live/123456/123456/496.ts
-
 #EXTINF:-1,UK: Sky History 2
 http://185.2.83.209:8000/live/123456/123456/452.ts
-
 #EXTINF:-1,UK: Sky Ci
 http://185.2.83.209:8000/live/123456/123456/514.ts
-
 #EXTINF:-1,UK: Sky 1
 http://185.2.83.209:8000/live/123456/123456/475.ts
-
 #EXTINF:-1,UK: Sky 2
 http://185.2.83.209:8000/live/123456/123456/507.ts
-
 #EXTINF:-1,UK: Sky Atlantic
 http://185.2.83.209:8000/live/123456/123456/483.ts
-
 #EXTINF:-1,UK: Sky E!
 http://185.2.83.209:8000/live/123456/123456/447.ts
-
 #EXTINF:-1,UK: Sky VH1
 http://185.2.83.209:8000/live/123456/123456/449.ts
-
 #EXTINF:-1,UK: Sky E4
 http://185.2.83.209:8000/live/123456/123456/451.ts
-
 #EXTINF:-1,UK: Sky TG4
 http://185.2.83.209:8000/live/123456/123456/422.ts
-
 #EXTINF:-1,UK: Sky Syfy
 http://185.2.83.209:8000/live/123456/123456/538.ts
-
 #EXTINF:-1,UK: Sky CNBC
 http://185.2.83.209:8000/live/123456/123456/466.ts
-
 #EXTINF:-1,UK: Sky Dave HD
 http://185.2.83.209:8000/live/123456/123456/506.ts
-
 #EXTINF:-1,UK: Sky RTE One
 http://185.2.83.209:8000/live/123456/123456/474.ts
-
 #EXTINF:-1,UK: Sky RTE Two
 http://185.2.83.209:8000/live/123456/123456/478.ts
-
 #EXTINF:-1,UK: SKY Fox
 http://185.2.83.209:8000/live/123456/123456/460.ts
-
 #EXTINF:-1,UK: Sky Five
 http://185.2.83.209:8000/live/123456/123456/473.ts
-
 #EXTINF:-1,UK: Sky Arts 1 HD
 http://185.2.83.209:8000/live/123456/123456/489.ts
-
 #EXTINF:-1,UK: Sky Baby
 http://185.2.83.209:8000/live/123456/123456/424.ts
-
 #EXTINF:-1,UK: Sky Eden
 http://185.2.83.209:8000/live/123456/123456/425.ts
-
 #EXTINF:-1,UK: Sky Alibi
 http://185.2.83.209:8000/live/123456/123456/509.ts
-
 #EXTINF:-1,UK: Sky Living HD
 http://185.2.83.209:8000/live/123456/123456/502.ts
-
 #EXTINF:-1,UK: Sky BoxNation
 http://185.2.83.209:8000/live/123456/123456/490.ts
-
 #EXTINF:-1,UK: Sky Racing
 http://185.2.83.209:8000/live/123456/123456/458.ts
-
 #EXTINF:-1,UK: Sky Gold
 http://185.2.83.209:8000/live/123456/123456/508.ts
-
 #EXTINF:-1,UK: Sky 5 USA
 http://185.2.83.209:8000/live/123456/123456/480.ts
-
 #EXTINF:-1,UK: Sky 5 star
 http://185.2.83.209:8000/live/123456/123456/477.ts
-
 #EXTINF:-1,UK: Sky life Time
 http://185.2.83.209:8000/live/123456/123456/476.ts
-
 #EXTINF:-1,UK: Sky Spike
 http://185.2.83.209:8000/live/123456/123456/525.ts
-
 #EXTINF:-1,UK: Sky TCM
 http://185.2.83.209:8000/live/123456/123456/459.ts
-
 #EXTINF:-1,UK: Sky CNN
 http://185.2.83.209:8000/live/123456/123456/454.ts
-
 #EXTINF:-1,UK: Sky Dmax
 http://185.2.83.209:8000/live/123456/123456/456.ts
-
 #EXTINF:-1,UK: Sky TLC
 http://185.2.83.209:8000/live/123456/123456/455.ts
-
 #EXTINF:-1,UK: Sky STV
 http://185.2.83.209:8000/live/123456/123456/448.ts
-
 #EXTINF:-1,UK: Sky MTV
 http://185.2.83.209:8000/live/123456/123456/1550.ts
-
 #EXTINF:-1,UK: Sky MTV Rocks HD
 http://185.2.83.209:8000/live/123456/123456/442.ts
-
 #EXTINF:-1,UK: Sky MTV Hits HD
 http://185.2.83.209:8000/live/123456/123456/443.ts
-
 #EXTINF:-1,UK: Sky MTV Dance HD
 http://185.2.83.209:8000/live/123456/123456/441.ts
-
 #EXTINF:-1,UK: Sky MTV Classic
 http://185.2.83.209:8000/live/123456/123456/500.ts
-
 #EXTINF:-1,UK: Sky MTV Base
 http://185.2.83.209:8000/live/123456/123456/440.ts
-
 #EXTINF:-1,UK: Sky VIVA the Hits!
 http://185.2.83.209:8000/live/123456/123456/1544.ts
-
 #EXTINF:-1,UK: Sky 4 Music
 http://185.2.83.209:8000/live/123456/123456/1543.ts
-
 #EXTINF:-1,UK: Sky VH1 Classic
 http://185.2.83.209:8000/live/123456/123456/450.ts
-
 #EXTINF:-1,UK: Sky VIVA the Hits
 http://185.2.83.209:8000/live/123456/123456/439.ts
-
 #EXTINF:-1,UK: Sky Kronehit TV
 http://185.2.83.209:8000/live/123456/123456/1545.ts
 
-#EXTINF:-1,------USA------
+#EXTINF:-1,------UK LIST 2------
 
-#EXTINF:-1,US: Sport TSN 1
-http://185.2.83.209:8000/live/123456/123456/1451.ts
-#EXTINF:-1,US: Sport TSN 2
-http://185.2.83.209:8000/live/123456/123456/1452.ts
-#EXTINF:-1,US: Sport TSN 3
-http://185.2.83.209:8000/live/123456/123456/1453.ts
-#EXTINF:-1,US: Sport TSN 4
-http://185.2.83.209:8000/live/123456/123456/1454.ts
-#EXTINF:-1,US: Sport TSN 5
-http://185.2.83.209:8000/live/123456/123456/1455.ts
-#EXTINF:-1,US: Skynet Sports HD
-http://185.2.83.209:8000/live/123456/123456/1476.ts
-#EXTINF:-1,US: Skynet Sports 1
-http://185.2.83.209:8000/live/123456/123456/1431.ts
-#EXTINF:-1,US: Skynet Sports 2
-http://185.2.83.209:8000/live/123456/123456/1436.ts
-#EXTINF:-1,US: Skynet Sports 3
-http://185.2.83.209:8000/live/123456/123456/1472.ts
-#EXTINF:-1,US: Skynet Sports 4
-http://185.2.83.209:8000/live/123456/123456/1473.ts
-#EXTINF:-1,US: Skynet Sports 5
-http://185.2.83.209:8000/live/123456/123456/1474.ts
-#EXTINF:-1,US: Skynet Sports 6
-http://185.2.83.209:8000/live/123456/123456/1475.ts
-#EXTINF:-1,US: Sports NET 360 HD
-http://185.2.83.209:8000/live/123456/123456/1497.ts
-#EXTINF:-1,US: Sports NET PACIFIC
-http://185.2.83.209:8000/live/123456/123456/1502.ts
-#EXTINF:-1,US: Sports NET ONE HD
-http://185.2.83.209:8000/live/123456/123456/1508.ts
-#EXTINF:-1,US: Sports NET WORLD
-http://185.2.83.209:8000/live/123456/123456/1526.ts
-#EXTINF:-1,US: Sports NET ONTARIO
-http://185.2.83.209:8000/live/123456/123456/1503.ts
-#EXTINF:-1,US: Sports NET WEST HD
-http://185.2.83.209:8000/live/123456/123456/1525.ts
-#EXTINF:-1,US: Sports Tonight
-http://185.2.83.209:8000/live/123456/123456/1490.ts
-#EXTINF:-1,US: Sport Network
-http://185.2.83.209:8000/live/123456/123456/1459.ts
-#EXTINF:-1,US: Sport LTVE HD
-http://185.2.83.209:8000/live/123456/123456/1496.ts
-#EXTINF:-1,US: USA Network
-http://185.2.83.209:8000/live/123456/123456/1498.ts
-#EXTINF:-1,US: Espn Sport
-http://185.2.83.209:8000/live/123456/123456/1483.ts
-#EXTINF:-1,US: BeIN Sports US
-http://185.2.83.209:8000/live/123456/123456/1486.ts
-#EXTINF:-1,US: Spike HD
-http://185.2.83.209:8000/live/123456/123456/1442.ts
-#EXTINF:-1,US: Sports NFL Now HD
-http://185.2.83.209:8000/live/123456/123456/1434.ts
-#EXTINF:-1,US: NHL Network HD
-http://185.2.83.209:8000/live/123456/123456/1429.ts
-#EXTINF:-1,US: Sport Snet Central
-http://185.2.83.209:8000/live/123456/123456/1430.ts
-#EXTINF:-1,US: ShowTime HD
-http://185.2.83.209:8000/live/123456/123456/1439.ts
-#EXTINF:-1,US: Showtime US
-http://185.2.83.209:8000/live/123456/123456/1480.ts
-#EXTINF:-1,US: AFN Prime HD
-http://185.2.83.209:8000/live/123456/123456/1479.ts
-#EXTINF:-1,US: AFN Movies HD
-http://185.2.83.209:8000/live/123456/123456/1477.ts
-#EXTINF:-1,US: TMN Action
-http://185.2.83.209:8000/live/123456/123456/1471.ts
-#EXTINF:-1,US: Animal Planet+1
-http://185.2.83.209:8000/live/123456/123456/1467.ts
-#EXTINF:-1,US: TMN Movies 2
-http://185.2.83.209:8000/live/123456/123456/1468.ts
-#EXTINF:-1,US: TMN Movies 3
-http://185.2.83.209:8000/live/123456/123456/1469.ts
-#EXTINF:-1,US: TMN Movies 4
-http://185.2.83.209:8000/live/123456/123456/1470.ts
-#EXTINF:-1,US: FX HD
-http://185.2.83.209:8000/live/123456/123456/1478.ts
-#EXTINF:-1,US: FOX 1
-http://185.2.83.209:8000/live/123456/123456/1435.ts
-#EXTINF:-1,US: E TV
-http://185.2.83.209:8000/live/123456/123456/1531.ts
-#EXTINF:-1,US: FOX 30
-http://185.2.83.209:8000/live/123456/123456/1523.ts
-#EXTINF:-1,US: FOX 23
-http://185.2.83.209:8000/live/123456/123456/1519.ts
-#EXTINF:-1,US: Fox 24 HD
-http://185.2.83.209:8000/live/123456/123456/1509.ts
-#EXTINF:-1,US: Fox Action
-http://185.2.83.209:8000/live/123456/123456/1448.ts
-#EXTINF:-1,US: Fox Action HD
-http://185.2.83.209:8000/live/123456/123456/1441.ts
-#EXTINF:-1,US: Fox Premium HD
-http://185.2.83.209:8000/live/123456/123456/1437.ts
-#EXTINF:-1,US: Cinemax ActionMax
-http://185.2.83.209:8000/live/123456/123456/1512.ts
-#EXTINF:-1,US: HBO Signature
-http://185.2.83.209:8000/live/123456/123456/1517.ts
-#EXTINF:-1,US: NBCSN Golf
-http://185.2.83.209:8000/live/123456/123456/1533.ts
-#EXTINF:-1,US: SYFY HD
-http://185.2.83.209:8000/live/123456/123456/1481.ts
-#EXTINF:-1,US: CBS HD
-http://185.2.83.209:8000/live/123456/123456/1485.ts
-#EXTINF:-1,US: HBO 1
-http://185.2.83.209:8000/live/123456/123456/1433.ts
-#EXTINF:-1,US: Bravo
-http://185.2.83.209:8000/live/123456/123456/1482.ts
-#EXTINF:-1,US: Starz Edge
-http://185.2.83.209:8000/live/123456/123456/1438.ts
-#EXTINF:-1,US: Starz East
-http://185.2.83.209:8000/live/123456/123456/1450.ts
-#EXTINF:-1,US: TBS HD
-http://185.2.83.209:8000/live/123456/123456/1506.ts
-#EXTINF:-1,US: Fight Network
-http://185.2.83.209:8000/live/123456/123456/1457.ts
-#EXTINF:-1,US: Bravo HD
-http://185.2.83.209:8000/live/123456/123456/1507.ts
-#EXTINF:-1,US: A&E HD
-http://185.2.83.209:8000/live/123456/123456/1500.ts
-#EXTINF:-1,US: HBO Action
-http://185.2.83.209:8000/live/123456/123456/1511.ts
-#EXTINF:-1,US: Movie Time HD
-http://185.2.83.209:8000/live/123456/123456/1499.ts
-#EXTINF:-1,US: RDS2
-http://185.2.83.209:8000/live/123456/123456/1505.ts
-#EXTINF:-1,US: NBCSN
-http://185.2.83.209:8000/live/123456/123456/1456.ts
-#EXTINF:-1,US: HSN
-http://185.2.83.209:8000/live/123456/123456/1462.ts
-#EXTINF:-1,US: London Live
-http://185.2.83.209:8000/live/123456/123456/1494.ts
-#EXTINF:-1,US: Star Chinese Movies
-http://185.2.83.209:8000/live/123456/123456/1491.ts
-#EXTINF:-1,US: Starz Encore US
-http://185.2.83.209:8000/live/123456/123456/1524.ts
-#EXTINF:-1,US: AFN Movie HD
-http://185.2.83.209:8000/live/123456/123456/1522.ts
-#EXTINF:-1,US: Kiro 7
-http://185.2.83.209:8000/live/123456/123456/1520.ts
-#EXTINF:-1,US: HBO East
-http://185.2.83.209:8000/live/123456/123456/1518.ts
-#EXTINF:-1,US: CBSN
-http://185.2.83.209:8000/live/123456/123456/1521.ts
-#EXTINF:-1,US: Famly HD
-http://185.2.83.209:8000/live/123456/123456/1495.ts
-#EXTINF:-1,US: Olympic Channel
-http://185.2.83.209:8000/live/123456/123456/1493.ts
-#EXTINF:-1,US: AMC
-http://185.2.83.209:8000/live/123456/123456/1492.ts
-#EXTINF:-1,US: BBC Two Eng
-http://185.2.83.209:8000/live/123456/123456/1443.ts
-#EXTINF:-1,US: Msnbc
-http://185.2.83.209:8000/live/123456/123456/1447.ts
-#EXTINF:-1,US: Cinemax
-http://185.2.83.209:8000/live/123456/123456/1461.ts
-#EXTINF:-1,US: AMC HD
-http://185.2.83.209:8000/live/123456/123456/1534.ts
-#EXTINF:-1,US: Life Time HD
-http://185.2.83.209:8000/live/123456/123456/1460.ts
-#EXTINF:-1,US: C-Span 1 HD
-http://185.2.83.209:8000/live/123456/123456/1487.ts
-#EXTINF:-1,US: C-Span 2 HD
-http://185.2.83.209:8000/live/123456/123456/1488.ts
-#EXTINF:-1,US: C-Span 3 HD
-http://185.2.83.209:8000/live/123456/123456/1489.ts
-#EXTINF:-1,US: Showtime Extreme
-http://185.2.83.209:8000/live/123456/123456/1539.ts
-#EXTINF:-1,US: CBC Toronto
-http://185.2.83.209:8000/live/123456/123456/1541.ts
-#EXTINF:-1,US: Comedy Central HD US
-http://185.2.83.209:8000/live/123456/123456/1540.ts
-#EXTINF:-1,US: ActionMAX US
-http://185.2.83.209:8000/live/123456/123456/1527.ts
-#EXTINF:-1,US: CP24 HD
-http://185.2.83.209:8000/live/123456/123456/1528.ts
-#EXTINF:-1,US: Discovery Velocity HD
-http://185.2.83.209:8000/live/123456/123456/1529.ts
-#EXTINF:-1,US: CTV Toronto HD
-http://185.2.83.209:8000/live/123456/123456/1530.ts
-#EXTINF:-1,US: TWiT TV
-http://185.2.83.209:8000/live/123456/123456/1535.ts
-#EXTINF:-1,US: HBO Family
-http://185.2.83.209:8000/live/123456/123456/1536.ts
-#EXTINF:-1,US: Starz Comedy
-http://185.2.83.209:8000/live/123456/123456/1537.ts
-#EXTINF:-1,US: Starz Cinema
-http://185.2.83.209:8000/live/123456/123456/1538.ts
-#EXTINF:-1,US: W Network HD
-http://185.2.83.209:8000/live/123456/123456/1532.ts
-#EXTINF:-1,US: Bloomberg
-http://185.2.83.209:8000/live/123456/123456/1464.ts
-#EXTINF:-1,US: Amazing Discoveries
-http://185.2.83.209:8000/live/123456/123456/1465.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://185.2.83.209:8000/live/123456/123456/1466.ts
-#EXTINF:-1,US: A&E Network
-http://185.2.83.209:8000/live/123456/123456/1458.ts
-#EXTINF:-1,US: AFN Prime Atlantic HD
-http://185.2.83.209:8000/live/123456/123456/1484.ts
-#EXTINF:-1,US: Thai CH8
-http://185.2.83.209:8000/live/123456/123456/1463.ts
-#EXTINF:-1,US: World Fashion TV
-http://185.2.83.209:8000/live/123456/123456/1432.ts
-#EXTINF:-1,US: TBS Channle
-http://185.2.83.209:8000/live/123456/123456/1449.ts
-#EXTINF:-1,US: Amazing Music
-http://185.2.83.209:8000/live/123456/123456/1446.ts
-#EXTINF:-1,US: ABC
-http://185.2.83.209:8000/live/123456/123456/1504.ts
-#EXTINF:-1,US: WGN 9 HD
-http://185.2.83.209:8000/live/123456/123456/1515.ts
-#EXTINF:-1,US: Replay
-http://185.2.83.209:8000/live/123456/123456/1516.ts
-#EXTINF:-1,US: TRT World
-http://185.2.83.209:8000/live/123456/123456/1513.ts
-#EXTINF:-1,US: CBS
-http://185.2.83.209:8000/live/123456/123456/1510.ts
-#EXTINF:-1,US: NBC Live
-http://185.2.83.209:8000/live/123456/123456/1501.ts
-#EXTINF:-1,US: BBC Amrica
-http://185.2.83.209:8000/live/123456/123456/1514.ts
+#EXTINF:-1,UK : Bt Sport 3
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12774.ts
+#EXTINF:-1,UK : Bt Sport ESPN
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12775.ts
+#EXTINF:-1,UK : RACING UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12780.ts
+#EXTINF:-1,UK : SKY ACTION *
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12781.ts
+#EXTINF:-1,UK : SKY COMEDY
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12783.ts
+#EXTINF:-1,UK : SKY DISNEY CH
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12784.ts
+#EXTINF:-1,UK : SKY Drama HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12785.ts
+#EXTINF:-1,UK : SKY FAMILY HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12786.ts
+#EXTINF:-1,UK : SKY Modern
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12787.ts
+#EXTINF:-1,UK : SKY Premier plus
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12788.ts
+#EXTINF:-1,UK : SKY PREMIUM
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12789.ts
+#EXTINF:-1,UK : Sky Sci-FI  HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12790.ts
+#EXTINF:-1,UK : SKY SELECTS HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12791.ts
+#EXTINF:-1,UK : SKY SPORT 2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12793.ts
+#EXTINF:-1,UK : SKY SPORT 5
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12796.ts
+#EXTINF:-1,UK : SKY SPORT NEWS
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12797.ts
+#EXTINF:-1,UK : SKY THRILLER HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12799.ts
+#EXTINF:-1,UK L: 5 STAR
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12770.ts
+#EXTINF:-1,UK L: 5USA
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12771.ts
+#EXTINF:-1,UK L: BT SPORT 1 *
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12772.ts
+#EXTINF:-1,UK L: BT SPORT 2 *
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12773.ts
+#EXTINF:-1,UK L: ITV1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12776.ts
+#EXTINF:-1,UK L: ITV2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12777.ts
+#EXTINF:-1,UK L: ITV3
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12778.ts
+#EXTINF:-1,UK L: ITV4
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12779.ts
+#EXTINF:-1,UK L: SKY Christmas
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12782.ts
+#EXTINF:-1,UK L: SKY SPORT 1 *
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12792.ts
+#EXTINF:-1,UK L: SKY SPORT 3 *
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12794.ts
+#EXTINF:-1,UK L: SKY SPORT 4 *
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12795.ts
+#EXTINF:-1,UK L: SKY SPORTS F1 **
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12798.ts
+#EXTINF:-1,UK L: TG4
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12800.ts
+#EXTINF:-1,UK L: TV3
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12801.ts
+#EXTINF:-1,UK VIP: Sky Movies Athlantic
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12802.ts
+#EXTINF:-1,UK VIP: Sky Movies GREAT
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12803.ts
+#EXTINF:-1,UK: ANIMAL PLANET
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12804.ts
+#EXTINF:-1,UK: BT ESPN
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12805.ts
+#EXTINF:-1,UK: BT Sport europe HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12806.ts
+#EXTINF:-1,UK: Discovery Channel
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12807.ts
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12808.ts
+#EXTINF:-1,UK: DISCOVERY HOME
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12809.ts
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12810.ts
+#EXTINF:-1,UK: EUROSPORT1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12811.ts
+#EXTINF:-1,UK: Film 4 UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12812.ts
+#EXTINF:-1,UK: Horror Channel
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12813.ts
+#EXTINF:-1,UK: ky Movies Greats HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12814.ts
+#EXTINF:-1,UK: NAT GEO HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12815.ts
+#EXTINF:-1,UK: NAT GEO WILD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12816.ts
+#EXTINF:-1,UK: Setanta Ireland
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12817.ts
+#EXTINF:-1,UK: SKY HISTORY
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12818.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12819.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12820.ts
+#EXTINF:-1,UK: SKY MOVIES SCFI/HORROR
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12821.ts
+#EXTINF:-1,UK: Sky Movies ShowCase HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12822.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12823.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12824.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12825.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12826.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12827.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12828.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12829.ts
+#EXTINF:-1,UK:DISCOVERY-TURBO
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12830.ts
+#EXTINF:-1,UK | 3e
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12166.ts
+#EXTINF:-1,UK | 4Music
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12165.ts
+#EXTINF:-1,UK | 5 USA
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12164.ts
+#EXTINF:-1,UK | ABC News
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12163.ts
+#EXTINF:-1,UK | Al Jazeera News HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12162.ts
+#EXTINF:-1,UK | Alibi
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12161.ts
+#EXTINF:-1,UK | Animal Planet UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12160.ts
+#EXTINF:-1,UK | At The Races
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12159.ts
+#EXTINF:-1,UK | Baby TV
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12158.ts
+#EXTINF:-1,UK | BBC Alba
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12157.ts
+#EXTINF:-1,UK | BBC Four HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12156.ts
+#EXTINF:-1,UK | BBC Four UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12155.ts
+#EXTINF:-1,UK | BBC News HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12154.ts
+#EXTINF:-1,UK | BBC News UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12153.ts
+#EXTINF:-1,UK | BBC One HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12152.ts
+#EXTINF:-1,UK | BBC One London
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12151.ts
+#EXTINF:-1,UK | BBC Parliament
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12150.ts
+#EXTINF:-1,UK | BBC Two HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12149.ts
+#EXTINF:-1,UK | BBC Two UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12148.ts
+#EXTINF:-1,UK | BBC World News
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12147.ts
+#EXTINF:-1,UK | Bloomberg
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12146.ts
+#EXTINF:-1,UK | Boomerang
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12145.ts
+#EXTINF:-1,UK | Box Nation
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12144.ts
+#EXTINF:-1,UK | British Eurosport
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12143.ts
+#EXTINF:-1,UK | British Eurosport2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12142.ts
+#EXTINF:-1,UK | BT Sport 1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12141.ts
+#EXTINF:-1,UK | BT Sport 2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12140.ts
+#EXTINF:-1,UK | BT Sport 3 (Ex Europe)
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12139.ts
+#EXTINF:-1,UK | BT Sport ESPN
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12138.ts
+#EXTINF:-1,UK | Cartoon Network UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12137.ts
+#EXTINF:-1,UK | Cartoonito
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12136.ts
+#EXTINF:-1,UK | CBBC
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12135.ts
+#EXTINF:-1,UK | CBBC HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12134.ts
+#EXTINF:-1,UK | CBeebies
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12133.ts
+#EXTINF:-1,UK | CBS Action
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12132.ts
+#EXTINF:-1,UK | CBS Drama
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12131.ts
+#EXTINF:-1,UK | CBS Reality UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12130.ts
+#EXTINF:-1,UK | Challenge
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12129.ts
+#EXTINF:-1,UK | Channel 4 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12128.ts
+#EXTINF:-1,UK | Channel 4 UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12127.ts
+#EXTINF:-1,UK | Channel 5 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12126.ts
+#EXTINF:-1,UK | Channel 5 UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12125.ts
+#EXTINF:-1,UK | Chelsea TV
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12124.ts
+#EXTINF:-1,UK | CITV
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12123.ts
+#EXTINF:-1,UK | CNN HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12122.ts
+#EXTINF:-1,UK | Comedy Central
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12121.ts
+#EXTINF:-1,UK | Comedy Extra
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12120.ts
+#EXTINF:-1,UK | Crime Investigation
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12119.ts
+#EXTINF:-1,UK | Dave
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12118.ts
+#EXTINF:-1,UK | Discovery
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12117.ts
+#EXTINF:-1,UK | Discovery History
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12116.ts
+#EXTINF:-1,UK | Discovery Home&Health
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12115.ts
+#EXTINF:-1,UK | Discovery Science
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12114.ts
+#EXTINF:-1,UK | Discovery Shed UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12113.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12112.ts
+#EXTINF:-1,UK | Disney XD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12111.ts
+#EXTINF:-1,UK | DisneyChnl
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12110.ts
+#EXTINF:-1,UK | DisneyJunior
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12109.ts
+#EXTINF:-1,UK | DMAX
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12108.ts
+#EXTINF:-1,UK | Drama UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12107.ts
+#EXTINF:-1,UK | E! Entertainment
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12106.ts
+#EXTINF:-1,UK | E4
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12105.ts
+#EXTINF:-1,UK | Eden
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12104.ts
+#EXTINF:-1,UK | eir Sports 1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12103.ts
+#EXTINF:-1,UK | eir Sports 2 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12102.ts
+#EXTINF:-1,UK | Euronews
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12101.ts
+#EXTINF:-1,UK | Film 4 UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12100.ts
+#EXTINF:-1,UK | Food Network UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12099.ts
+#EXTINF:-1,UK | FOX
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12098.ts
+#EXTINF:-1,UK | Gold
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12096.ts
+#EXTINF:-1,UK | H2 UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12095.ts
+#EXTINF:-1,UK | Heart TV UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12094.ts
+#EXTINF:-1,UK | History UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12093.ts
+#EXTINF:-1,UK | Home
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12092.ts
+#EXTINF:-1,UK | Horror Channel UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12091.ts
+#EXTINF:-1,UK | ID UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12090.ts
+#EXTINF:-1,UK | ITV
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12089.ts
+#EXTINF:-1,UK | ITV 2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12088.ts
+#EXTINF:-1,UK | ITV 3
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12087.ts
+#EXTINF:-1,UK | ITV 4
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12086.ts
+#EXTINF:-1,UK | ITV Be
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12085.ts
+#EXTINF:-1,UK | ITV Encore
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12084.ts
+#EXTINF:-1,UK | ITV HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12083.ts
+#EXTINF:-1,UK | LFC TV HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12082.ts
+#EXTINF:-1,UK | Lifetime
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12081.ts
+#EXTINF:-1,UK | More 4
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12080.ts
+#EXTINF:-1,UK | Motors UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12079.ts
+#EXTINF:-1,UK | mov4men
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12078.ts
+#EXTINF:-1,UK | MUTV
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12069.ts
+#EXTINF:-1,UK | MUTV HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12068.ts
+#EXTINF:-1,UK | Nat Geo Wild UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12067.ts
+#EXTINF:-1,UK | National Geographic UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12066.ts
+#EXTINF:-1,UK | Nick Jr Too
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12065.ts
+#EXTINF:-1,UK | Nick Junior
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12064.ts
+#EXTINF:-1,UK | Nick UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12063.ts
+#EXTINF:-1,UK | NickToons
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12062.ts
+#EXTINF:-1,UK | Pick
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12061.ts
+#EXTINF:-1,UK | Quest
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12060.ts
+#EXTINF:-1,UK | Racing UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12059.ts
+#EXTINF:-1,UK | Real Lives
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12058.ts
+#EXTINF:-1,UK | RTE News
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12055.ts
+#EXTINF:-1,UK | RTE One
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12057.ts
+#EXTINF:-1,UK | RTE Two
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12056.ts
+#EXTINF:-1,UK | RTEjr
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12054.ts
+#EXTINF:-1,UK | Sky 1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12053.ts
+#EXTINF:-1,UK | Sky 2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12052.ts
+#EXTINF:-1,UK | Sky Action Movies
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12051.ts
+#EXTINF:-1,UK | Sky Arts
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12050.ts
+#EXTINF:-1,UK | Sky Atlantic
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12049.ts
+#EXTINF:-1,UK | Sky Comedy Movies
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12048.ts
+#EXTINF:-1,UK | Sky Family Movies
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12047.ts
+#EXTINF:-1,UK | Sky Greats Movies
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12046.ts
+#EXTINF:-1,UK | Sky Living UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12045.ts
+#EXTINF:-1,UK | Sky Movies Disney
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12044.ts
+#EXTINF:-1,UK | Sky Movies Drama & Romance
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12043.ts
+#EXTINF:-1,UK | Sky News UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12042.ts
+#EXTINF:-1,UK | Sky Premiere Movies
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12041.ts
+#EXTINF:-1,UK | Sky ScFiHorror Movies
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12040.ts
+#EXTINF:-1,UK | Sky Select Movies
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12039.ts
+#EXTINF:-1,UK | Sky Sp News HQ
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12038.ts
+#EXTINF:-1,UK | Sky Sports F1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12032.ts
+#EXTINF:-1,UK | Sky Sports Mix
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12031.ts
+#EXTINF:-1,UK | Sky Thriller Movies
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12030.ts
+#EXTINF:-1,UK | Spike UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12029.ts
+#EXTINF:-1,UK | SyFy
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12028.ts
+#EXTINF:-1,UK | TCM
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12027.ts
+#EXTINF:-1,UK | TLC UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12026.ts
+#EXTINF:-1,UK | Travel Channel UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12025.ts
+#EXTINF:-1,UK | True Entertainment
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12024.ts
+#EXTINF:-1,UK | True Movies 1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12023.ts
+#EXTINF:-1,UK | True Movies 2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12022.ts
+#EXTINF:-1,UK | Universal Channel UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12021.ts
+#EXTINF:-1,UK | UTV
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12020.ts
+#EXTINF:-1,UK | Vintage UK
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12017.ts
+#EXTINF:-1,UK | Watch
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12016.ts
+#EXTINF:-1,UK | Yesterday
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/12015.ts
+#EXTINF:-1,UK: BT Sport | ESPN HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10861.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10864.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10863.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10862.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10872.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10871.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10870.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10869.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10868.ts
+#EXTINF:-1,UK: BT Sport Extra 6
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10867.ts
+#EXTINF:-1,UK: BT Sports 3 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10875.ts
+#EXTINF:-1,UK: Eir Sport 1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10866.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10865.ts
+#EXTINF:-1,UK: Sky Sports Box Office PPV live during events
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10874.ts
+#EXTINF:-1,UK: Sky Sports MIX HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10873.ts
+#EXTINF:-1,UK:BT Sports 1 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10877.ts
+#EXTINF:-1,UK:BT Sports 2 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10876.ts
+#EXTINF:-1,VIP|UK| Sky Sports 1
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10860.ts
+#EXTINF:-1,VIP|UK| Sky Sports 1 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10859.ts
+#EXTINF:-1,VIP|UK| Sky Sports 2
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10858.ts
+#EXTINF:-1,VIP|UK| Sky Sports 2 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10857.ts
+#EXTINF:-1,VIP|UK| Sky Sports 3
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10856.ts
+#EXTINF:-1,VIP|UK| Sky Sports 3 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10855.ts
+#EXTINF:-1,VIP|UK| Sky Sports 4
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10854.ts
+#EXTINF:-1,VIP|UK| Sky Sports 4 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10853.ts
+#EXTINF:-1,VIP|UK| Sky Sports 5
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10852.ts
+#EXTINF:-1,VIP|UK| Sky Sports 5 HD
+http://kingdiablo-iptv.com:1963/live/mustiikara/Dt1A2bBIts/10851.ts
